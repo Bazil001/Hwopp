@@ -1,0 +1,14 @@
+Dialog Message:
+     Hum maintenance par hain, kal wapas aayenge.
+
+     Exit Button Text:
+     EXIT
+
+     Contact Admin Button Text:
+     TELEGRAM
+
+     Admin URL:
+     https://t.me/jaat_stuff
+
+     Exit Command:
+     exit
